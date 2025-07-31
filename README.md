@@ -1,5 +1,8 @@
 # 🦖 LLM Dino Bot
 
+<img width="1045" height="442" alt="Screenshot 2025-07-30 195031" src="https://github.com/user-attachments/assets/6c2754f3-dd32-4bf5-816b-b6d5de6cc4d4" />
+
+
 An AI-powered bot that plays the Chrome Dino Game by detecting obstacles using computer vision and asking a local language model (LLM) whether the Dino should jump. It utilizes a local LLM served via [Ollama](https://ollama.com/) (e.g., Mistral) to make decisions in real time.
 
 ---
